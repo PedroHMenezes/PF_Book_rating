@@ -1,6 +1,7 @@
 # PF_Book_rating
 
 # Objetivo do Projeto
+## Este projeto visa estudar uma base de dados de modo que seja possíve a utilização de análise de dados, seja ela uma regressão, um clustering ou uma análise de sentimento, como um Naive Bayes. Este projeto utiliza uma regressão linear para prever as avaliações de livros à partir dos dados do API do GoodReads.
 
 # Arquivos do Projeto
 
