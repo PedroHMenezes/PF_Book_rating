@@ -14,4 +14,8 @@ Este projeto visa estudar uma base de dados de modo que seja possíve a utiliza�
 ## 3. book_data_2018.csv
 - Arquivo que será utilizado como a base de testes, de modo que os dados de 2019 sejam utilizados para treinamento e os dados de 2018 utilizados para teste.
 
-# Explicação do Código
+## 4. classification.ipynb
+- Arquivo que aborda a construção do classificador.
+
+## 5. Decision Tree.ipynb
+- Arquivo que faz a análise dos dados por meio de decisio tree, uma técnica de regressão.
